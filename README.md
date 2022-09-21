@@ -2,3 +2,8 @@
 - [katkin_make](http://wiki.ros.org/catkin/commands/catkin_make)
 - [HVL lab landing page](https://robotics-lab-documentation.readthedocs.io/en/latest/index.html)
 - [Ros part of hvl](https://robotics-lab-documentation.readthedocs.io/en/latest/texts/ros0.html)
+
+ros is coded in several languages, but hvl wants us to mainly use python.
+this is understandable due to the versatility of python, but if nessecery, fastly running code
+is recomended to run with a purely compiled language and not a runtime compiled to binary interpreted code like python.
+- [python documentation](https://docs.python.org/)
