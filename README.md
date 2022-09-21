@@ -4,7 +4,7 @@
 - [Ros part of hvl](https://robotics-lab-documentation.readthedocs.io/en/latest/texts/ros0.html)
 
 ## python?
-ros is coded in several languages, but hvl wants us to mainly use python.
+[ROS](http://wiki.ros.org/) is coded in several languages, but [HVL](https://www.hvl.no/) wants us to mainly use python.
 this is understandable due to the versatility of python, but if nessecery, fastly running code
 is recomended to run with a purely compiled language and not a runtime compiled to binary interpreted code like python.
 - [python documentation](https://docs.python.org/)
