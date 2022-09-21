@@ -5,6 +5,7 @@
 [ROS](http://wiki.ros.org/) is coded in several languages, but [HVL](https://www.hvl.no/) wants us to mainly use python.
 this is understandable due to the versatility of python, but if nessecery, fastly running code
 is recomended to run with a purely compiled language and not a runtime compiled to binary interpreted code like python.
+
 - [python documentation](https://docs.python.org/)
 
 ## C++ :)
@@ -15,9 +16,20 @@ is recomended to run with a purely compiled language and not a runtime compiled 
 
 [ROS](http://wiki.ros.org/) is a framework to run automatically controlled unmanned electric and/or electromechanical systems.
 
+- [Installing ROS](http://wiki.ros.org/ROS/Installation)
+
 ## Ubuntu
 
-[ROS](http://wiki.ros.org/) is preferrably run on
+[ROS](http://wiki.ros.org/) is preferrably run on [Ubuntu](https://ubuntu.com/)
+
+- [install Ubuntu 21.04 on WMWare](https://unixcop.com/how-to-install-ubuntu-21-04-on-vmware-workstation-pro/)
+
+## WMWare
+
+there are many ways to run [Ubuntu](https://ubuntu.com/), one of those ways is with the use of a [wirtual machine](https://en.wikipedia.org/wiki/Virtual_machine).
+according to [HVL](https://www.hvl.no/), the preferred wirtual machine service in our class is [WMWare](https://www.vmware.com/).
+
+- [Install Wmware offline service](https://www.vmware.com/no/products/workstation-player.html)
 
 ## Etc
 
