@@ -24,6 +24,7 @@ is recomended to run with a purely compiled language and not a runtime compiled 
 [ROS](http://wiki.ros.org/) is preferrably run on [Ubuntu](https://ubuntu.com/)
 
 - [install Ubuntu 21.04 on WMWare](https://unixcop.com/how-to-install-ubuntu-21-04-on-vmware-workstation-pro/)
+- [Ros part of hvl](https://robotics-lab-documentation.readthedocs.io/en/latest/texts/ros0.html)
 
 ## WMWare
 
@@ -36,6 +37,4 @@ according to [HVL](https://www.hvl.no/), the preferred wirtual machine service i
 
 ### usefull links
 
-- [katkin_make](http://wiki.ros.org/catkin/commands/catkin_make)
-- [HVL lab landing page](https://robotics-lab-documentation.readthedocs.io/en/latest/index.html)
-- [Ros part of hvl](https://robotics-lab-documentation.readthedocs.io/en/latest/texts/ros0.html)
+- [HVL labs landing page](https://robotics-lab-documentation.readthedocs.io/en/latest/index.html)
