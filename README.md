@@ -17,6 +17,7 @@ is recomended to run with a purely compiled language and not a runtime compiled 
 [ROS](http://wiki.ros.org/) is a framework to run automatically controlled unmanned electric and/or electromechanical systems.
 
 - [Installing ROS](http://wiki.ros.org/ROS/Installation)
+- [Some Commands i've had to look up](/ROS_commands/README.md)
 
 ## Ubuntu
 
