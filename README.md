@@ -38,3 +38,4 @@ according to [HVL](https://www.hvl.no/), the preferred wirtual machine service i
 ### usefull links
 
 - [HVL labs landing page](https://robotics-lab-documentation.readthedocs.io/en/latest/index.html)
+- [andre notater](/andre%20notater/README.md)
