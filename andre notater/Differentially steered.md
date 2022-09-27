@@ -18,4 +18,4 @@ $$V_L + W\dot{\theta} = V_R$$
 
 $$W\dot{\theta} = V_R-V_L$$
 
-$$\dot{\theta} = \frac{V_R-V_L}{W}$$
+$$\dot{\theta} = \frac{(V_R-V_L)}{W}$$
