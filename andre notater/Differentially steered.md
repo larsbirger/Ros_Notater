@@ -30,3 +30,6 @@ $W\dot{\theta} = V_R-V_L$
 
 dividing down the $W$ to isolate for $\dot{theta}$ we get:  
 $\dot{\theta} = \frac{V_R-V_L}{W}$
+
+with this formula we can not relate twe linear velocities and their distance in between to get the angular velocity rotating around the center between them.
+$$\dot{\theta} = \frac{V_R-V_L}{W}$$
